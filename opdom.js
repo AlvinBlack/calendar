@@ -16,7 +16,7 @@
 		var year = date.getFullYear();
 		var rest = calRest(year,month);
 		var index = 6 + rest + date.getDate();
-		titleYear.textContent = year + '月';
+		titleYear.textContent = year + '年';
 		titleMonth.textContent = month + '月';
 		updateCalendar();
 		updateBoard(index);
