@@ -85,7 +85,7 @@ and (min-width : 1224px) {
 	.downlisticon{
 		float: right;
 		height: 100%;
-		width: 15%;
+		width: 25px;
 		background-color: #EEE;
 		}
 			
